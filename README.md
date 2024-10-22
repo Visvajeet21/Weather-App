@@ -16,12 +16,9 @@ This is a simple weather app that allows users to get current weather informatio
 2. CSS: For styling and layout.
 3. JavaScript: For API calls, handling user input, and dynamic content updates.
 4. Weather API: For fetching real-time weather data.
-   
-# Getting Started
-Follow these steps to set up and run the project locally.
 
 # Prerequisites
-You need a browser and a text editor (like VS Code) to run and modify this project.
+We need a browser and a text editor (like VS Code) to run and modify this project.
 
 # API Key
 To use this app, you will need an API key from a weather API provider. Follow these steps to get your API key:
