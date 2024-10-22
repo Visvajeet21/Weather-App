@@ -32,3 +32,10 @@ Enter the name of the city you want weather information for in the search box.
 Click on the search button or press enter.
 
 The app will automatically fetch and display weather information for your current location.
+
+# Results
+![Screenshot 2024-10-22 173551](https://github.com/user-attachments/assets/2af043f7-574a-4a7d-a011-c813bc8d5af1)
+
+![Screenshot 2024-10-22 173612](https://github.com/user-attachments/assets/0922e93f-6849-4348-9d44-f762147a1ac0)
+
+
